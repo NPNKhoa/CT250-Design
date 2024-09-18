@@ -2102,7 +2102,7 @@ DESTINATION 0 Arial,8,N</a:FontList>
 <o:RelationshipSymbol Id="o59">
 <a:CreationDate>1725370220</a:CreationDate>
 <a:ModificationDate>1725605634</a:ModificationDate>
-<a:Rect>((-53536,7619), (-39012,14800))</a:Rect>
+<a:Rect>((-53536,7618), (-39012,14800))</a:Rect>
 <a:ListOfPoints>((-39412,8615),(-52874,8615),(-52874,14400))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>4625</a:ArrowStyle>
