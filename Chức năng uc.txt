@@ -1,0 +1,74 @@
+- Khách vãng lai:
++ Đăng ký tài khoản
++ Tìm kiếm sản phẩm
+	+ Tìm kiếm theo giọng nói
+	+ Tìm kiếm theo từ khóa
++ Xem thông tin sản phẩm
+	+ Lọc theo thương hiệu
+	+ Lọc theo giá
++ Xem bài viết
+
+- Khách hàng là thành viên hệ thống:
++ Đăng nhập
++ Đăng xuất
++ Quản lý giỏ hàng
+	+ Thêm sản phẩm vào giỏ hàng
+	+ Cập nhật số lượng sản phẩm
+	+ Xóa sản phẩm khỏi giỏ hàng
++ Lấy mã giảm giá
++ Xem thông tin cá nhân
+	+ Cập nhật thông tin cá nhân
++ Thanh toán
++ Đặt hàng
++ Quản lý đơn hàng
+	+ Xem chi tiết đơn hàng
+		+ Hủy đơn hàng
+	+ Xem lịch sử mua hàng
++ Phản hồi thông tin
+	+ Phản hồi sản phẩm
+	+ Phản hồi dịch vụ
++ Xem gợi ý sản phẩm
+
+- Nhân viên:
++ Đăng nhập
++ Đăng xuất
++ Thống kê
++ Quản lý sản phẩm
+	+ Xem danh sách sản phẩm
+	+ Tìm kiếm sản phẩm
+	+ Thêm sản phẩm
+	+ Cập nhật sản phẩm
++ Quản lý mã giảm giá
+	+ Xem danh sách mã giảm giá
+	+ Thêm mã giảm giá
+	+ Cập nhật mã giảm giá
++ Quản lý đơn hàng
+	+ Xem danh sách đơn hàng
+	+ Tìm kiếm đơn hàng
+	+ Xem chi tiết đơn hàng
+		+ In hóa đơn
+	+ Cập nhật trạng thái đơn hàng
++ Quản lý đánh giá
+ 	+ Xem danh sách đánh giá
+	+ Trả lời đánh giá
++ Quản lý phản hồi
+	+ Xem danh sách phản hồi
+	+ Trả lời phản hồi
++ Xem thông tin cá nhân
+	+ Cập nhật thông tin cá nhân
+
+- Quản trị viên:
++ Quản lý tài khoản người dùng
+	+ Xem danh sách tài khoản người dùng
+	+ Tìm kiếm tài khoản người dùng
+	+ Phân quyền tài khoản người dùng
++ Quản lý bài viết
+	+ Xem danh sách bài viết
+	+ Thêm bài viết
+	+ Cập nhật bài viết
+	+ Xóa bài viết
++ Quản lý cấu hình
+	+ Cập nhật thông tin cửa hàng
+	+ Thêm banner
+	+ Cập nhật banner
+	+ Cập nhật bảng lọc theo giá
